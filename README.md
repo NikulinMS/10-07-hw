@@ -236,3 +236,5 @@ resource "yandex_lb_network_load_balancer" "balancer-1" {
 
 ![task_2_1.png](img%2Ftask_2_1.png)
 ![task_2_2.png](img%2Ftask_2_2.png)
+
+[terraform.zip](data%2Fterraform.zip)
